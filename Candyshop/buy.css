@@ -1,0 +1,152 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.q1{
+    width: 98%;
+    height: 98%;
+    background-color: rgb(213, 213, 213);
+}
+.w1{
+    width: 100%;
+    height: 15%;
+    background-color: rgb(213, 213, 213);
+    display: flex;
+}
+.w2{
+    width: 100%;
+    height: 50%;
+    background-color: black;
+}
+.w3{
+    width: 100%;
+    height: 35%;
+    background-color: blanchedalmond;
+}
+.y1{
+    width: 50%;
+    height: 100%;
+    background-color: rgb(213, 213, 213);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.y2{
+    width: 50%;
+    height: 100%;
+    background-color: rgb(213, 213, 213);
+    display: flex;
+    flex-direction: column;
+}
+.t1{
+    width: 100%;
+    height: 33%;
+    background-color: rgb(215, 215, 215);
+    display: flex;
+}
+.t2{
+    width: 100%;
+    height: 33%;
+    background-color: rgb(215, 215, 215);
+    display: flex;
+}
+.t3{
+    width: 100%;
+    height: 40%;
+    background-color: rgb(215, 215, 215);
+    display: flex;
+}
+.u1{
+    width: 40%;
+    height: 100%;
+    background-color: rgb(213, 213, 213);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.u2{
+    width: 25%;
+    height: 100%;
+    background-color: rgb(213, 213, 213);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.u3{
+    width: 35%;
+    height: 100%;
+    background-color: rgb(213, 213, 213);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.o1{
+    width: 40%;
+    height: 100%;
+    background-color: rgb(213, 213, 213);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.o2{
+    width: 25%;
+    height: 100%;
+    background-color: rgb(213, 213, 213);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.o3{
+    width: 35%;
+    height: 100%;
+    background-color: rgb(213, 213, 213);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.i1{
+    width: 40%;
+    height: 100%;
+    background-color: rgb(213, 213, 213);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.i2{
+    width: 25%;
+    height: 100%;
+    background-color: rgb(213, 213, 213);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.i3{
+    width: 35%;
+    height: 100%;
+    background-color: rgb(213, 213, 213);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.p1{
+    width: 30%;
+    height: 100%;
+    background-image: url(https://o.remove.bg/downloads/2340d673-c07c-4864-b980-2fb5c1fc0cb5/127267-01_skittles-candy-packs-original-36-piece-box_600x-removebg-preview.png); background-repeat: no-repeat; background-size: 100% 100%;";
+}
+.p2{
+    width: 30%;
+    height: 100%;
+    background-image: url(https://o.remove.bg/downloads/706b0f51-4675-4cde-8f14-4870b956c170/images-removebg-preview.png); background-repeat: no-repeat; background-size: 100% 100%;";
+}
+.p3{
+    width: 30%;
+    height: 100%;
+    background-image: url(https://o.remove.bg/downloads/2340d673-c07c-4864-b980-2fb5c1fc0cb5/127267-01_skittles-candy-packs-original-36-piece-box_600x-removebg-preview.png); background-repeat: no-repeat; background-size: 100% 100%;";
+}
